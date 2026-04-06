@@ -1,0 +1,8 @@
+# LIB yang dibutuhkan
+fastapi
+uvicorn[standard]
+jinja2
+pandas
+python-multipart
+#openpyxl
+aiofiles
